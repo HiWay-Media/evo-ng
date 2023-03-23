@@ -7,5 +7,5 @@ require (
 	github.com/getevo/evo v1.0.9
 	github.com/getevo/evo-ng v0.0.5
 	github.com/gofiber/fiber/v2 v2.27.0
-	github.com/valyala/fasthttp v1.33.0
+	github.com/valyala/fasthttp v1.34.0
 )
